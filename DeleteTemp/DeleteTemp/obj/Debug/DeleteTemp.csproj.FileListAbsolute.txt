@@ -1,0 +1,14 @@
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\bin\Debug\DeleteTemp.exe.config
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\bin\Debug\DeleteTemp.exe
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\bin\Debug\DeleteTemp.pdb
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\obj\Debug\DeleteTemp.Form1.resources
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\obj\Debug\DeleteTemp.Properties.Resources.resources
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\obj\Debug\DeleteTemp.csproj.GenerateResource.cache
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\obj\Debug\DeleteTemp.csproj.CoreCompileInputs.cache
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\obj\Debug\DeleteTemp.exe
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\obj\Debug\DeleteTemp.pdb
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\bin\Debug\DeleteTemp.exe.manifest
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\bin\Debug\DeleteTemp.application
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\obj\Debug\DeleteTemp.exe.manifest
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\obj\Debug\DeleteTemp.application
+c:\users\lucas\source\repos\DeleteTemp\DeleteTemp\obj\Debug\DeleteTemp.csprojAssemblyReference.cache
